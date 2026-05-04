@@ -11,7 +11,7 @@ Proyecto de portafolio que demuestra el ciclo completo de análisis de datos apl
 - **Transformación** mediante vistas analíticas en T-SQL
 - **Visualización** interactiva en Power BI
 
-El caso de estudio principal es Credicorp Capital S.A. Sociedad Administradora de Fondos, con 78 fondos analizados.
+El caso de estudio principal es Credicorp Capital S.A. Sociedad Administradora de Fondos.
 
 ## Stack tecnológico
 
