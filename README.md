@@ -1,4 +1,4 @@
-# Fondos Perú Analytics
+# FondosSMV-Project
 
 Pipeline de datos end-to-end para análisis de fondos mutuos y de inversión peruanos, usando datos públicos de la Superintendencia del Mercado de Valores (SMV).
 
