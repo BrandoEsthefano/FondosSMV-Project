@@ -24,21 +24,25 @@ El caso de estudio principal es Credicorp Capital S.A. Sociedad Administradora d
 
 ## Arquitectura del pipeline
 
+```
 API SMV (JSON)
-↓
+     ↓
 Python (extracción + limpieza)
-↓
+     ↓
 SQL Server (snapshots mensuales)
-↓
+     ↓
 Vistas analíticas T-SQL
-↓
+     ↓
 Power BI (dashboards interactivos)
+```
 
 ## Estructura del repositorio
 
+```
 FondosSMV-Project/
 ├── src/                 # Scripts Python de extracción y carga
 ├── sql/                 # DDL y vistas analíticas
 ├── powerbi/             # Archivo .pbix del dashboard
 ├── docs/                # Documentación e imágenes
 └── data/                # Datos de muestra
+```
